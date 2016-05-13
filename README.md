@@ -1,6 +1,6 @@
 # Mixed-effects-model-for-Basketball
 
-Make sure to install requred packages:
+Make sure to install the required packages:
 - scipy.sparse
 - scikits.sparse
 
