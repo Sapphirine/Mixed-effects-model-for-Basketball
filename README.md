@@ -1,5 +1,9 @@
 # Mixed-effects-model-for-Basketball
 
+Make sure to install requred packages:
+- scipy.sparse
+- scikits.sparse
+
 Shots.csv: data consist of x-y coordinates on the court for made and missed field goal attempts from every match (1230 games) in the 2014-2015 NBA regular season. These data were collected by optical sensors as part of a program to introduce spatio-temporal information to basketball analytics.
 
 A user can specify a model in specify_model_file.py, where users can select what variables are to be considered to be fixed-effect variables and define the design matrix for both random-effects and fixed-effects. 
